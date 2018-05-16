@@ -1,3 +1,10 @@
+Passo 1: Abra a planilha protegida e digite ALT+F11
+
+Passo 2: Se você fez certo o passo anterior agora deverá estar aberto o Microsoft Visual Basic.
+Vá em INSERIR > MÓDULO
+
+Passo 3: Insira a rotina abaixo copiando e colando desde a linha “Sub Desbloqueia_Planilha()” até “End Sub”
+
 Sub Desbloqueia_Planilha()
  
 Dim i As Integer, j As Integer, k As Integer
